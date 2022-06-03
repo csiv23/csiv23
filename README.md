@@ -1,20 +1,24 @@
 ![](banner/evafont1.png)
 
-### Hi there 👋
+
+
+### Hi! 👋
 
 <img>
 
 <!--
-**csiv23/csiv23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Cameron, a 3rd year Computer Science student at Northeastern University with a concentration in Software.
 
-Here are some ideas to get you started:
+##### CURRENTLY WORKING ON
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ✨ Learning Front-End Development through [The Odin Project](https://www.theodinproject.com/).
+- 📚 Creating a Discord Bot to track a user's manga reading history
+
+##### ABOUT ME
+- 😄 Pronouns: he/him
+- 💬 Something that Interests Me: The intersection of Computer Science and Music. As both a programmer and jazz musician, I love seeing how the two worlds interact with each other (they have more in common than you'd think!(.
+- ⚡ Fun fact: I'm a triplet!
+- 📫 How to reach me: 
+  - 📧 <sivo.c@northeastern.edu>
+  - 💡 [LinkedIn](https://www.linkedin.com/in/cameron-sivo-68a721224/)
 -->
