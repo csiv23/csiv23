@@ -6,7 +6,6 @@
 
 <img>
 
-<!--
 I'm Cameron, a 3rd year Computer Science student at Northeastern University with a concentration in Software.
 
 ##### CURRENTLY WORKING ON
@@ -21,4 +20,3 @@ I'm Cameron, a 3rd year Computer Science student at Northeastern University with
 - 📫 How to reach me: 
   - 📧 <sivo.c@northeastern.edu>
   - 💡 [LinkedIn](https://www.linkedin.com/in/cameron-sivo-68a721224/)
--->
