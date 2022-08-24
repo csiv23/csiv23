@@ -8,6 +8,7 @@ I'm Cameron, a 3rd year Computer Science student at Northeastern University with
 
 ##### CURRENTLY WORKING ON
 
+- 📅 Currently completing the [#100DaysOfCode Challenge](https://www.100daysofcode.com/) (log available under pins)
 - ✨ Learning React through various resources and projects
 - 🦾 Enrolled in [CodePath.org's Android Development in Kotlin](https://www.codepath.org/courses/android-development-in-kotlin) course
 - 📚 Creating a Discord Bot to track a user's manga reading history
