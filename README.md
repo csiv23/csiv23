@@ -9,6 +9,7 @@ I'm Cameron, a 3rd year Computer Science student at Northeastern University with
 ##### CURRENTLY WORKING ON
 
 - ✨ Learning React through various resources and projects
+- 🦾 Taking [CodePath.org's Android Development in Kotlin](https://www.codepath.org/courses/android-development-in-kotlin) course
 - 📚 Creating a Discord Bot to track a user's manga reading history
 
 ##### ABOUT ME
