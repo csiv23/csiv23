@@ -8,7 +8,7 @@ I'm Cameron, a 3rd year Computer Science student at Northeastern University with
 
 ##### CURRENTLY WORKING ON
 
-- ✨ Learning Front-End Development through [The Odin Project](https://www.theodinproject.com/).
+- ✨ Learning React through various resources and projects
 - 📚 Creating a Discord Bot to track a user's manga reading history
 
 ##### ABOUT ME
