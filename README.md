@@ -14,7 +14,7 @@ I'm Cameron, a 3rd year Computer Science student at Northeastern University with
 
 ##### ABOUT ME
 - 😄 Pronouns: he/him
-- 💬 Something that Interests Me: The intersection of Computer Science and Music. As both a programmer and jazz musician, I love seeing how the two worlds interact with each other.
+- 💬 Something That Interests Me: The intersection of Computer Science and Music. As both a programmer and jazz musician, I love seeing how the two worlds interact with each other.
 - ⚡ Fun fact: I'm a triplet!
 - 📫 How to reach me: 
   - 📧 <sivo.c@northeastern.edu>
