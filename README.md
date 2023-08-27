@@ -4,7 +4,7 @@
 
 ### Hi! 👋
 
-I'm Cameron, a 3rd year Computer Science student at Northeastern University with a concentration in Software.
+I'm Cameron, a 4th year Computer Science student at Northeastern University with a concentration in Software.
 
 ##### CURRENTLY WORKING ON
 
