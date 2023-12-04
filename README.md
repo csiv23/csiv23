@@ -8,10 +8,8 @@ I'm Cameron, a 4th year Computer Science student at Northeastern University with
 
 ##### CURRENTLY WORKING ON
 
-- 📅 Currently completing the [#100DaysOfCode Challenge](https://www.100daysofcode.com/) (log available under pins)
 - 📻 Software Development for [WRBB 104.9 FM](https://wrbbradio.org/) (Northeastern's Radio Broadcast Center)
 - ✨ Learning React through various resources and projects
-- 📚 Creating a Discord Bot to track a user's manga reading history
 
 ##### ABOUT ME
 - 😄 Pronouns: he/him
