@@ -4,14 +4,14 @@
 
 ### Hi! 👋
 
-I'm Cameron, a 4th year Computer Science student at Northeastern University with a concentration in Software. Check out my work on my [Portfolio Site](http://cameronsivo.com/).
+I'm Cameron, a recent Computer Science graduate from Northeastern University with a concentration in Software. Check out my work on my [Portfolio Site](http://cameronsivo.com/).
 
 
 
 ##### CURRENTLY WORKING ON
 
-- 📻 Software Development for [WRBB 104.9 FM](https://wrbbradio.org/) (Northeastern's Radio Broadcast Center)
-- ✨ Learning React through various resources and projects
+- 🖥️ Various projects about my passions (ex. digital minimalism, manga, meditation, music)
+- 📚 Reading more about the attention economy and other topics (check out my [GoodReads account](#) for book reviews)
 
 ##### ABOUT ME
 - 😄 Pronouns: he/him
