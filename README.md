@@ -11,7 +11,7 @@ I'm Cameron, a recent Computer Science graduate from Northeastern University wit
 ##### CURRENTLY WORKING ON
 
 - 🖥️ Various projects about my passions (ex. digital minimalism, manga, meditation, music)
-- 📚 Reading more about the attention economy and other topics (check out my [GoodReads account](#) for book reviews)
+- 📚 Reading more about the attention economy and other topics (check out my [GoodReads account](https://www.goodreads.com/user/show/158678292-cameron) for book reviews)
 
 ##### ABOUT ME
 - 😄 Pronouns: he/him
