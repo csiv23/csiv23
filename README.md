@@ -1,12 +1,8 @@
 ![](banner/evafont1.png)
 
-
-
 ### Hi! 👋
 
 I'm Cameron, a recent Computer Science graduate from Northeastern University with a concentration in Software. Check out my work on my [Portfolio Site](http://cameronsivo.com/).
-
-
 
 ##### CURRENTLY WORKING ON
 
@@ -18,5 +14,6 @@ I'm Cameron, a recent Computer Science graduate from Northeastern University wit
 - 💬 Something That Interests Me: The intersection of Computer Science and Music. As both a programmer and jazz musician, I love seeing how the two worlds interact with each other.
 - ⚡ Fun fact: I'm a triplet!
 - 📫 How to reach me: 
-  - 📧 <sivo.c@northeastern.edu>
-  - 💡 [LinkedIn](https://www.linkedin.com/in/cameron-sivo-68a721224/)
+- 📧 <cameronjsivo@gmail.com>
+- 💡 [LinkedIn](https://www.linkedin.com/in/cameron-sivo-68a721224/)
+
